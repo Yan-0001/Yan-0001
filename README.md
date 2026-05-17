@@ -92,9 +92,11 @@ I use AI agents as part of my engineering workflow for:
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Yan-0001&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yan-0001&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-0001&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yan-0001&theme=github_dark" height="165" alt="GitHub Stats" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yan-0001&theme=github_dark" height="165" alt="Most Used Languages" />
 
 </div>
 
@@ -102,7 +104,7 @@ I use AI agents as part of my engineering workflow for:
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yan-0001&theme=github-dark-blue&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Yan-0001&theme=github-dark-blue&hide_border=true&background=00000000" alt="GitHub Streak" />
 
 </div>
 
